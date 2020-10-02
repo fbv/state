@@ -6,7 +6,7 @@ State management library
 
 ```go
 
-import "fbv/state"
+import "github.com/fbv/state"
 
 // define secret key
 const secret = "top_secret"

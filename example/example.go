@@ -1,8 +1,9 @@
 package main
 
 import (
-	"fbv/state"
 	"fmt"
+
+	"github.com/fbv/state"
 )
 
 const secret = "5096a665-4639-4d89-b832-6620a8a05962"

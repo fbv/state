@@ -1,4 +1,4 @@
-module fbv/state
+module github.com/fbv/state
 
 go 1.15
 
